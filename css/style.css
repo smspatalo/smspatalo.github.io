@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#full {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../pic/welcome.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#click {
+    width: 100%;
+    position: fixed;
+    top: 5%;
+    text-align: center;
+}
